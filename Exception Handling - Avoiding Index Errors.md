@@ -12,6 +12,7 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 ```
+
 try:
     # Taking 3 elements input from the user
     L = []
@@ -24,6 +25,7 @@ try:
 
 except IndexError:
     print("check index range")
+
 ```
 ## Output
 
